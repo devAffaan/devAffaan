@@ -30,21 +30,21 @@ I'm a developer specializing in AI Agent development and automation. I build int
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 - AI Agent development (chat agents, voice agents, task automation)
-- Workflow automation with **n8n** — API integrations, AI-driven workflows
+- Workflow automation with **n8n** API integrations, AI-driven workflows
 - Voice Agent development
-- Working with **Hugging Face** models
-- Backend API development with **FastAPI**
-- Database design and management with **SQLite**
+- Working with **Hugging Face** and other models
+- Backend API development with **FastAPI** and other libraries
+- Database design and management with **SQLite** and various other databases
 
 ---
 
 ## Education
 
-**Bachelor's in Information Technology** *(Currently Enrolled)*
+**Bachelor's in Information Technology** 
 
 **Certificates:**
 - Cyber Security
-- n8n Certified (Level [X])
+- n8n Certified
 
 Thank you for looking at my profile. Please get in touch with me if you're interested in working on a project together or if you have any queries.
 
