@@ -1,5 +1,7 @@
 ### Hi there,
 
+![Profile Views](https://komarev.com/ghpvc/?username=devAffaan&color=blue)
+
 # I'm Affan!
 
 I'm a developer specializing in AI Agent development and automation. I build intelligent, production-ready solutions and turn ideas into real, working systems.
