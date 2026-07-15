@@ -1,10 +1,10 @@
+### Hi there,
+
 <div align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devAffaan&color=blue)
 
-</div>     
-
-### Hi there,
+</div>    
                                                                                                
 # I'm Affan!
 
