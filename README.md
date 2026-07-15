@@ -1,4 +1,8 @@
-   ![Profile Views](https://komarev.com/ghpvc/?username=devAffaan&color=blue)                                                  
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=devAffaan&color=blue)
+
+</div>                                            
 ### Hi there,
                                                                                                
 # I'm Affan!
